@@ -1,0 +1,4 @@
+INFO     root:base.py:11 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="f82d749b6f95d1506b229e08c1d11df1")>
+INFO     root:page_mp_login.py:32 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+INFO     root:base.py:24 正在查找元素：('css selector', "[placeholder='手机号']")
+INFO     root:base.py:42 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!

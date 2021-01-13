@@ -1,0 +1,11 @@
+[32mINFO    [0m root:base.py:10 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="26bbbe2edaa56357da059dac3e662e58")>
+[32mINFO    [0m root:page_mp_login.py:32 正在调用运营后台登录业务方法，用户名：18321252140密码：123456
+[32mINFO    [0m root:base.py:23 正在查找元素：('css selector', "[placeholder='用户名']")
+[32mINFO    [0m root:base.py:41 正在对:('css selector', "[placeholder='用户名']")元素执行输入:18321252140操作!
+[32mINFO    [0m root:base.py:23 正在查找元素：('css selector', "[placeholder='密码']")
+[32mINFO    [0m root:base.py:41 正在对:('css selector', "[placeholder='密码']")元素执行输入:123456操作!
+[32mINFO    [0m root:base.py:50 正在对:('css selector', '.el-button--primary')元素执行点击操作!
+[32mINFO    [0m root:base.py:23 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:23 正在查找元素：('css selector', "[class='no-redirect']")
+[32mINFO    [0m root:base.py:61 正在对:('css selector', "[class='no-redirect']")元素获取文本操作!，获取的文本值：文章列表
+[32mINFO    [0m root:base.py:23 正在查找元素：('css selector', "[class='no-redirect']")

@@ -1,0 +1,78 @@
+2021-01-09 11:10:48,822 INFO [get_log.py(<module>:41)] - 测试信息级别日志
+2021-01-09 11:10:48,822 ERROR [get_log.py(<module>:42)] - 测试错误级别
+2021-01-09 11:10:55,796 INFO [get_log.py(<module>:41)] - 测试信息级别日志
+2021-01-09 11:10:55,797 ERROR [get_log.py(<module>:42)] - 测试错误级别
+2021-01-09 11:11:17,366 INFO [get_logger.py(<module>:40)] - info级别测试
+2021-01-09 11:11:17,366 ERROR [get_logger.py(<module>:41)] - error级别测试
+2021-01-09 11:50:38,324 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="da97470655e7526e468cb291fae5aff5")>
+2021-01-09 11:50:38,328 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：943947
+2021-01-09 11:50:38,328 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 11:50:38,348 INFO [base.py(base_input:38)] - 正在对:('css selector', "[placeholder='手机号']")元素执行清空操作!
+2021-01-09 11:50:38,384 INFO [base.py(base_input:41)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 11:57:25,199 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="7e610eb7f50f073c5c9bd00be7d82521")>
+2021-01-09 11:57:25,202 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：943947
+2021-01-09 11:57:25,203 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 11:57:25,219 INFO [base.py(base_input:38)] - 正在对:('css selector', "[placeholder='手机号']")元素执行清空操作!
+2021-01-09 11:57:25,257 INFO [base.py(base_input:41)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 11:58:36,873 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="f303d66750cb0a4f6469d180c4447cfa")>
+2021-01-09 11:58:36,875 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：943947
+2021-01-09 11:58:36,875 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', '[placeholder="手机号"]')
+2021-01-09 11:58:36,886 INFO [base.py(base_input:38)] - 正在对:('css selector', '[placeholder="手机号"]')元素执行清空操作!
+2021-01-09 11:58:36,918 INFO [base.py(base_input:41)] - 正在对:('css selector', '[placeholder="手机号"]')元素执行输入:18321252140操作!
+2021-01-09 12:00:09,120 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="3bd69764286e43abc65d8c9d86bb967d")>
+2021-01-09 12:00:09,124 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：857795
+2021-01-09 12:00:09,124 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:00:09,141 INFO [base.py(base_input:38)] - 正在对:('css selector', "[placeholder='手机号']")元素执行清空操作!
+2021-01-09 12:00:09,178 INFO [base.py(base_input:41)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 12:03:48,104 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="eff5fdcb3150a541c48bfde434738c29")>
+2021-01-09 12:03:48,106 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:03:48,107 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:03:48,123 INFO [base.py(base_input:39)] - 正在对:('css selector', "[placeholder='手机号']")元素执行清空操作!
+2021-01-09 12:03:48,156 INFO [base.py(base_input:42)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 12:04:57,882 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="1386f4cd4b5182de8a96eec9ed878544")>
+2021-01-09 12:04:57,885 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:04:57,886 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:04:57,915 INFO [base.py(base_input:42)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 12:12:12,902 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="5665210349b44f12a3c7280462449648")>
+2021-01-09 12:12:12,905 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:12:12,905 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:12:58,373 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="f6fd3ef9d5cd00f9c6254c250551fe50")>
+2021-01-09 12:12:58,376 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:12:58,376 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:13:13,840 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="741fe3c02db6d7e31b4665a22ae562e8")>
+2021-01-09 12:13:13,844 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:13:13,844 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:27:04,489 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="9e18f0bd6f31da67363687196e62f16b")>
+2021-01-09 12:27:04,492 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:27:04,492 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:27:36,858 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="c8d9c66c97acb4bbd82e72ffb046a309")>
+2021-01-09 12:27:36,862 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:27:36,862 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:29:13,711 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="4760427940bc869f5984db6f3251f663")>
+2021-01-09 12:29:13,716 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:29:13,717 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:29:13,737 INFO [base.py(base_input:42)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 12:29:55,199 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="f82d749b6f95d1506b229e08c1d11df1")>
+2021-01-09 12:29:55,203 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:29:55,203 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:29:55,226 INFO [base.py(base_input:42)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 12:34:35,663 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="97fed35a1f04489be5137c936d0129b6")>
+2021-01-09 12:34:35,669 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 12:34:35,670 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 12:34:35,686 INFO [base.py(base_input:42)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 13:11:56,925 INFO [base.py(__init__:11)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="28fe2dcdc90739016ec92013ae04f055")>
+2021-01-09 13:11:56,932 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 13:11:56,932 INFO [base.py(base_find:24)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 13:11:56,951 INFO [base.py(base_input:42)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
+2021-01-09 13:32:50,330 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="71acdcaf39ac188e836ad0279e3997da")>
+2021-01-09 13:32:50,332 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 13:32:50,333 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', '[placeholder="手机号"]')
+2021-01-09 13:32:50,355 INFO [base.py(base_input:41)] - 正在对:('css selector', '[placeholder="手机号"]')元素执行输入:18321252140操作!
+2021-01-09 13:33:23,542 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="d42e19eafc10861ae1abf9531d818694")>
+2021-01-09 13:33:23,549 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 13:33:23,549 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', '[placeholder="手机号"]')
+2021-01-09 13:33:23,568 INFO [base.py(base_input:41)] - 正在对:('css selector', '[placeholder="手机号"]')元素执行输入:18321252140操作!
+2021-01-09 13:38:27,506 INFO [base.py(__init__:10)] - 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="a4d3737cbbd416ac93922433b3384b9c")>
+2021-01-09 13:38:27,510 INFO [page_mp_login.py(page_mp_login:32)] - 正在调用运营后台登录业务方法，用户名：18321252140密码：852733
+2021-01-09 13:38:27,510 INFO [base.py(base_find:23)] - 正在查找元素：('css selector', "[placeholder='手机号']")
+2021-01-09 13:38:27,526 INFO [base.py(base_input:41)] - 正在对:('css selector', "[placeholder='手机号']")元素执行输入:18321252140操作!
